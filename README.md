@@ -92,11 +92,7 @@ Here are a few technologies I have worked with throughout my research and learni
 * C3.ai Grand Challenge finalist
 * Best Paper Award recipient
 
-## 📊 GitHub Stats
 
-![Devipriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devipriyaraju&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devipriyaraju&layout=compact&hide_border=true)
 
 ## 📫 Get in Touch
 
